@@ -1,0 +1,169 @@
+.logoimg{
+    height: 50px;
+    width: 100px;
+}
+.child1{
+    background-color: black;
+}
+.child2{
+    height: 500px;
+    width: 100%;
+    background-image:url(./images/saaaarathh.JPG);
+   background-size:100% 500px;
+    background-repeat: no-repeat;
+
+
+ 
+}
+
+.child2 h1{
+    text-align: center;
+}
+.secondcol{
+    margin-top: 150px;
+   margin-left: 0px;
+}
+.child3{
+    height:500px;
+    width: 100%;
+    background-color: black;
+}
+.child3img{
+    height: 400px;
+    width: 400px;   
+}
+.colchild3{
+    padding-top: 70px;
+}
+.child4{
+    height: 400px;
+    width: 100%;
+    background-color:rgb(168, 131, 131);
+    text-align: center;
+
+}
+.innerchild4{
+  padding: 120px;
+}
+.child4 h1{
+    color: purple;
+}
+.child4 p{
+    font-size:80px;
+    color: purple
+}
+.independent{
+    height: 90px;
+}
+.associate{
+    margin-top: 10px;
+    height: 90px;
+}
+.secondunit{
+    height: 90px;
+}
+.assistant{
+    margin-top: 10px;
+    height: 90px;
+}
+.child5{
+    height: 1700px;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+.child5inner{
+    margin-top: 50px;
+}
+
+
+
+.sayana img{
+    height: 320px;
+    width: 100%;
+}
+.micheal img{
+    height: 320px;
+    width: 100%;
+    margin-top: 50px;
+}
+.michealcontent{
+    padding:150px;
+}
+.sayanacontent{
+    padding:100px;
+   
+}
+.child5 a
+{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.child5 a:hover
+{
+   color: blueviolet;
+    font-size: 50px;
+    text-decoration: none;
+}
+.child5 .gallery2 a{
+    font-size: small;
+}
+    
+.gallery{
+    padding: 100px;
+}
+.galleryy img{
+    height: 200px;
+}
+.gallery2{
+    margin-top: 20px;
+}
+.gallery2.a{
+    font-size: small;
+}
+.gallery3{
+    margin-top: 200px;
+}
+.child5 .gallery3 a{
+    font-size: small;
+}
+
+.child6{
+    height: 400px;
+    width: 100%;
+    background-color: black;
+   
+}
+
+.innerchild6{
+    
+    padding: 50px;
+    background-color: rgb(19, 17, 17);
+}
+
+.child6content1 p{
+font-size: 50px;
+}
+.child6content2{
+    padding: 100px;
+}
+
+.child7{
+    background-color: black;
+
+    height: 500px;
+    width: 100%;
+}
+.innerchild7{
+  padding: 50px;
+  text-align: center;
+}
+.child7 .innerchild7 .heading h1{
+   font-size: 50px; 
+}
+.para{
+    padding-top: 10px;
+}
